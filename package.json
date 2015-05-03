@@ -1,0 +1,24 @@
+{
+  "name": "lightbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.12.3",
+    "socket.io": "*",
+    "config": "*",
+    "http": "*",
+    "body-parser": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "beryl-wang",
+  "license": "ISC",
+  "engines": {
+      "node": "0.10.31",
+      "npm": "1.4.23"
+  }
+}
